@@ -5,7 +5,7 @@
 **Screenshoot**
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/1 Membuat Direktori UAP-Adsis.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/6f456c4680322d16e6284f31cab7e66b2aaa02ce/Screenshoot/1%20Membuat%20Direktori%20UAP-Adsis.png" >
 </p>
 <p align="center">Membuat direktori baru UAP-Adsis dengan perintah mkdir</p>
 
