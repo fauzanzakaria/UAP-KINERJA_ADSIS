@@ -10,17 +10,17 @@
 <p align="center">Membuat direktori baru UAP-Adsis dengan perintah mkdir</p>
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/1 Membuat file.txt.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/1%20Membuat%20file.txt.png" >
 </p>
 <p align="center">Membuat file.txt dengan nama catatannya-fauzan.txt dan mengisinya dengan perintah sudo nano</p>
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/1 Mengisi file.txt.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/1%20Mengisi%20file.txt.png" >
 </p>
 <p align="center">Mengisi catatannya-fauzan.txt dengan NAMA dan NIM</p>
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/1 Mengubah Permission.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/1%20Mengubah%20Permission.png" >
 </p>
 <p align="center">Mengubah Permission catatannya-fauzan.txt ke view-only dengan perintah chmod 400</p>
 
@@ -29,17 +29,17 @@
 **Screenshoot**
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/2 Melihat IP.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/2%20Melihat%20IP.png" >
 </p>
 <p align="center">Melihat ip dengan perintah ifconfig</p>
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/2 Mengubah IP.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/2%20Mengubah%20IP.png" >
 </p>
 <p align="center">Mengubah IP dengan perintah sudo ifconfig ens33 192.168.56.11 netmask 255.255.255.0</p>
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/2 Menambahkan default gateway.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/2%20Menambahkan%20default%20gateway.png" >
 </p>
 <p align="center">Menambahkan default gateway dengan perintah sudo route add default gw 192.168.56.110 ens33</p>
 
@@ -48,17 +48,17 @@
 **Screenshoot**
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/3 Install Webmin.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/3%20Install%20Webmin.png" >
 </p>
 <p align="center">Menginstall Webmin</p>
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/3 Membuat group dan memasukkan user.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/3%20Membuat%20group%20dan%20memasukkan%20user.png" >
 </p>
 <p align="center">Membuat groups baru dengan nama Adsis_E lalu masukkan user fauzan didalamnya</p>
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/3 Cek groups dan user.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/3%20Cek%20groups%20dan%20user.png" >
 </p>
 <p align="center">Groups Adsis_E dengan id 1009 dengan user fauzan berhasil ditambahkan</p>
 
@@ -67,12 +67,12 @@
 **Screenshoot**
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/4 Setting.jpg" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/4%20Setting.jpg" >
 </p>
 <p align="center">Mengubah konfigurasi reject dan drop</p>
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/4 Test ping.jpg" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/4%20Test%20ping.jpg" >
 </p>
 <p align="center">Menjalankan test ping</p>
 
@@ -85,12 +85,12 @@ Dapat disimpulkan saat kita merubah setting ke reject saat di lakukan test ping 
 **Screenshoot**
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/5 Memasukkan perintah.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/5%20Memasukkan%20perintah.png" >
 </p>
 <p align="center">Menambahkan perintah */3 * * * * ping filkom.ub.ac.id</p>
 
 <p align="center">
-  <img src="/workspaces/UAP-KINERJA_ADSIS/Screenshoot/5 Hasilnya.png" >
+  <img src="https://github.com/fauzanzakaria/UAP-KINERJA_ADSIS/blob/78f1af57f03d3f17b73890ac9af9fc14243516f3/Screenshoot/5%20Hasilnya.png" >
 </p>
 <p align="center">Hasil dari perintah */3 * * * * ping filkom.ub.ac.id</p>
 
